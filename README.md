@@ -1,4 +1,4 @@
-# Project 3: Customer Segmentation Analysis (K-Means Clustering)
+# Customer Segmentation Analysis (K-Means Clustering)
 
 ## What this project does
 Groups real customers of an online retail store into segments based
